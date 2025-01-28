@@ -22,4 +22,11 @@
     * 3.1.4 Data validation using built-in testing framework
         - Writing data validation
 
-* 3.2 Training: sklearn models and XGBoost (TODO)
+* 3.2 Training: sklearn models and XGBoost
+    * 3.2.1 Training pipeline for sklearn models
+        - GDP training set
+        - Sklearn training GDP
+        - Load models
+        - Utility helper function for loading models
+        - Hyperparameter tuning
+        - Train sklearn model
