@@ -56,4 +56,13 @@
         - Model inference playground part 2
         - Get prediction via API
 
+* 3.5 Deploying: Running operations in production
+    * 3.5.1 Permission
+        - Configure permission on AWS
+    * 3.5.2 Deploy
+        - Setup and deploy using Terraform
+    * 3.5.3 Continuous deployment and integration
+        - CI/CD with GitHub actions
+        - Mage deployed
+
     
