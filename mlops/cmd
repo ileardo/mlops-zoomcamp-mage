@@ -1,0 +1,2 @@
+start project:
+ $ mage start project_name
