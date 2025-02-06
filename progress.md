@@ -45,4 +45,15 @@
         - Setup email to send alerts
         - Setup pipelines alerting
 
+* 3.4 Triggering; inference and retraining
+    * 3.4.1 Retraining pipeline
+        - Setup pipeline
+        - Trigger pipeline to run 
+    * 3.4.2 Inference pipeline
+        - Make a prediction
+        - Build pipeline
+        - Model inference playground part 1
+        - Model inference playground part 2
+        - Get prediction via API
+
     
